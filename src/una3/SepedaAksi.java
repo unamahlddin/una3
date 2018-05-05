@@ -7,5 +7,6 @@ public class SepedaAksi {
         s.harga=1000;
         
         s.cetakInfo();
+        
     }
 }
